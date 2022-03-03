@@ -8,3 +8,5 @@
 </div>
 
 👉 Utilizei o React Native Expo para desenvolver este projeto de calculadora de IMC, é um projeto simples com o intuito de praticar e aprender React Native.
+
+⚠️ Obs: O Projeto esta na branch master
